@@ -1,2 +1,2 @@
-# gyheo.github.io
+# 허건영 (Heo GeonYeong)
 I just wanna run 🏃‍♂️ and learn 📖
