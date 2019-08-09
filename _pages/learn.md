@@ -1,8 +1,8 @@
 ---
 layout: single
-title: Run
-permalink: /run/
+title: Learn
+permalink: /learn/
 author_profile: true
 ---
 
-# RUN
+# LEARN
