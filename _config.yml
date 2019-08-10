@@ -108,7 +108,7 @@ analytics:
 # Site Author
 author:
   name             : "Heo GeonYeong"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/assets/images/bio-profile.jpeg"
   bio              : "I just wanna run 🏃‍♂️ and learn 📖"
   location         : "Seoul, Korea"
   email            : "heo.geoyeo@gmail.com"
