@@ -1,2 +1,3 @@
-# 허건영 (Heo GeonYeong)
+# 허건영
+## Heo GeonYeong
 I just wanna run 🏃‍♂️ and learn 📖
