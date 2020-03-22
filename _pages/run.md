@@ -1,8 +1,5 @@
 ---
-layout: single
-title: Run
-permalink: /run/
-author_profile: true
+layout: archive
+permalink: /run
 ---
-
-# RUN
+{% for post in site.categories.run %} {% include archive-single.html %} {% endfor %}
