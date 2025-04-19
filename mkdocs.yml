@@ -1,0 +1,27 @@
+site_name: 허건영(Heo GeonYeong)
+plugins:
+  search:
+  social:
+theme:
+  name: material
+  font:
+    text: Nanum Gothic
+  icon:
+    repo: fontawesome/brands/github-alt
+  features:
+    - navigation.tabs
+    - navigation.tabs.sticky
+    - navigation.expand
+    - navigation.indexes
+    - search.highlight
+    - search.share
+    - search.suggest
+  hide:
+    - navigation
+    - toc
+extra:
+  social:
+    - icon: fontawesome/brands/github-alt
+      link: https://github.com/gyheo
+    - icon: fontawesome/brands/linkedin
+      link: https://www.linkedin.com/in/%EA%B1%B4%EC%98%81-%ED%97%88-210252117/
