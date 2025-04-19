@@ -1,4 +1,4 @@
-name: gyheo.github.io
+name: gyheo-github-io
 on:
   push:
     branches:
