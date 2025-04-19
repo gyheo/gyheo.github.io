@@ -25,5 +25,5 @@ jobs:
           path: .cache
           restore-keys: |
             mkdocs-material-
-      - run: install -r requirements-github-actions.txt
+      - run: pip install -r requirements-github-actions.txt
       - run: mkdocs gh-deploy --force
